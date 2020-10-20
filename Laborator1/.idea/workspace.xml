@@ -14,6 +14,8 @@
       <change afterPath="$PROJECT_DIR$/../../Curs 1.mp4" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Curs 3.mp4" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Curs2.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +23,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1iHQEHeUkCaDqWciY5wjeLtz83C" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -80,10 +82,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1602758890026">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1602793790357">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602758890026" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602793790357" />
     <state width="1515" height="208" key="GridCell.Tab.0.bottom" timestamp="1602758899813">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
